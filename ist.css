@@ -1,0 +1,40 @@
+body{
+	background-color:cornflowerblue;
+}
+h1{
+	color:midnightblue;
+	font-family: Arial;
+	font-size: 35px;
+	text-align: center;  ;
+} 
+p {
+	font-family: Arial;
+	font-size: 20px;
+	color: ghostwhite;
+	 ;
+}
+
+img{
+	width: 750px;
+	margin-top: 15px;
+	display: block;
+	margin: 0 auto;
+      }
+     .blutext {
+	font-family: Arial;
+	font-size: 20px;
+	color: midnightblue;
+	text-align: ;
+}
+li,ul,ol {font-family: Arial;
+	font-size: 20px;
+	color: ghostwhite;
+	text-align: ;
+
+}
+a {
+	color: orange;
+}
+.bob {
+	color: midnightblue;
+}
